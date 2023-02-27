@@ -4,10 +4,8 @@ public class UcakBileti {
 
 	public static void main(String[] args) {
 
-		int yas, rota, mesafe, indirim, gidisdonus;
+		int yas, rota, mesafe, gidisdonus;
 		double kmUcret = 0.5, ucret, sonuc;
-
-		int istanbul, ankara, antalya, adana, sivas, izmir, erzurum, van, trabzon;
 
 		System.out.println(
 				"istanbul->ankara=1\nistanbul->antalya=2\nistanbul->adana=3\nistanbul->sivas=4\nistanbul->izmir=5\nistanbul->erzurum=6\nistanbul->van=7\nistanbul->trabzon=8");
