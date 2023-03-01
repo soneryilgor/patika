@@ -17,6 +17,8 @@ public class CiftSayiGirisVeToplami {
 		}while (sayi%2==0);
 		
 		System.out.println("Girilen Sayılardan 4 ve 4'ün katı olan sayıların toplamı : " + toplam);
+
+		scan.close();
 	}
 
 }

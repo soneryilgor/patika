@@ -340,6 +340,7 @@ public class UcakBileti {
 					System.out.println("Yolculuk Ücretiniz : " + ucret);
 				}
 			}
+			scan.close();
 			break;
 		}
 	}

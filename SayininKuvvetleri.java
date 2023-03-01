@@ -16,6 +16,7 @@ public class SayininKuvvetleri {
         for(int i=1; i<=sayi; i*=5) {
         	System.out.print(i+" ");
         }
+        scan.close();
 	}
 
 }

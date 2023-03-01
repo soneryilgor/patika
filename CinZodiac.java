@@ -24,6 +24,6 @@ public class CinZodiac {
             case 11 :System.out.println("Burcunuz : Koyun");break;
             
         }
-
+        scan.close();
     }
 }

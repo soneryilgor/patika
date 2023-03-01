@@ -4,7 +4,7 @@ public class Burclar {
 
 	public static void main(String[] args) {
 		
-		int s1,s2,s3,buyuk,kucuk;
+		int s1,s2;
 		boolean isError=false;
 		
 		Scanner scan = new Scanner(System.in);
@@ -124,6 +124,7 @@ public class Burclar {
 		}
 		if(s1>12 || s1<1) {isError =true;}
 		if (isError) {System.out.println("Hatalı bir giriş yaptınız!");		}
+		scan.close();
 	}
-
+	
 }

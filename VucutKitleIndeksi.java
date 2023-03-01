@@ -20,6 +20,7 @@ public class VucutKitleIndeksi {
 		else {
 			System.out.println("Kilo veya boyunuz 0 yada daha küçük olamaz!");
 		}
+		scan.close();
 	}
 
 }

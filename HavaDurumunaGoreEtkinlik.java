@@ -21,6 +21,7 @@ public class HavaDurumunaGoreEtkinlik {
 		}else {
 			System.out.println("Yüzmeye Gidebilirsin");
 		}
+		scan.close();
 	}
 
 }

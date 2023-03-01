@@ -17,6 +17,7 @@ public class Kombinasyon {
         for (int k=1; k<=(sayi1-sayi2); k++) {F3*=k;}
 
         System.out.println("Kombinasyon : " + (F1/(F2*F3)));
+        scan.close();
 	}
 
 }

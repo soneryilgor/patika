@@ -20,7 +20,7 @@ public class DaireDilimiAlani {
 		else {
 			System.out.println("Yariçap veya açı 0 ve daha küçük olamaz!");
 		}
-	
+		scan.close();
 	}
 	
 }

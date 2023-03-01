@@ -23,6 +23,6 @@ public class ManavProgrami {
 	total=(armut*armutkg)+(elma*elmakg)+(domates*domateskg)+(muz*muzkg)+(patlican*patlicankg);
 	
 	System.out.println("Toplam Tutar : " + total+" TL");
+	scan.close();
 	}
-
 }

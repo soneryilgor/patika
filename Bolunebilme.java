@@ -14,6 +14,7 @@ public class Bolunebilme {
 			} 
 		}
 		System.out.println(toplam);
+		scan.close();
 	}
 
 }

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SayiSiralama {
 
 	public static void main(String[] args) {
-		int s1,s2,s3,buyuk,kucuk;
+		int s1,s2,s3,buyuk;
 		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("1. Sayıyı Giriniz : ");
@@ -41,6 +41,7 @@ public class SayiSiralama {
 				System.out.println("Büyükten Küçüğe Girilen Sayılar : "+ s1 + " > "+ s3 + " > "+ s2);
 			}
 		}
+		scan.close();
 	}
 
 }

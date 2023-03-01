@@ -15,6 +15,7 @@ public class SayininUssunuAlma {
         	toplam*=taban;
         }
         System.out.println("Cevap : "+toplam);
+        scan.close();
 	}
 
 }

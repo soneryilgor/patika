@@ -26,5 +26,6 @@ public class YildizlardanUcgen {
             }
             System.out.println();
         }
+        scan.close();
     }
 }

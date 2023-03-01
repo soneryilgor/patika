@@ -36,5 +36,6 @@ public class UcakBiletiV2 {
             case 8 :km=895;ucret=km*indirim*ekstra*kmUcret;
                 System.out.println("Bilet Ücretiniz : "+ucret);break;
         }
+        scan.close();
     }
 }
