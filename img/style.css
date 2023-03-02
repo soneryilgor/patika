@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap'); /* google fonts kullandım*/
+
+body{
+    font-family: 'Tilt Neon', cursive;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 0 15px 20px 15px;
+}
+
+.urun-listesi{
+    list-style-position: inside;
+}
+
+.h1-color{
+    color: red;
+}
+
+.h2-color{
+    color: purple;
+}
+
+.h3-color{
+    color: darkgoldenrod;
+}
+
+.products-img ol li{
+    list-style-position: inside;
+}
+
+.contact-align-left{
+    text-align: left;
+}
+
+.h4-color{
+    color: darkgoldenrod;
+}
+
+
+
