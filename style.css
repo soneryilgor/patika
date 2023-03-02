@@ -1,0 +1,48 @@
+.search {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+    text-align: center;
+    display: block;
+    background-color: rgb(230, 229, 229);
+    }
+    
+    .box-a {
+        background-color: #4ef1e1;
+        text-align: center;
+        width: 38%;
+        float: left;
+        margin-left: 5px;
+        height: 80px;
+        padding-top: 10px;
+        margin-bottom: 15px;
+    }
+    
+    .box-b {
+        background-color: #70CCC2;
+        width: 21%;
+        float: left;
+        text-align: center;
+        margin-left: 2px;
+        height: 80px;
+        padding-top: 10px;
+        margin-bottom: 15px;
+        font-size: 13px
+    }
+    
+    .box-c {
+        background-color: #62B3AA;
+        width: 40%;
+        float:left;
+        text-align: center;
+        margin-left: 2px;
+        height: 80px;
+        padding-top: 10px;
+        margin-bottom: 15px;
+        font-size: 13px
+    }
+    
+    .copyright {
+    font-size: small;
+    text-align: center;
+    }
