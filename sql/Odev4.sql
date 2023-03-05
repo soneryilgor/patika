@@ -16,7 +16,6 @@ WHERE title LIKE 'T%' AND rating = 'G';
 SELECT COUNT(*) FROM country
 WHERE LENGTH(country) = 5;
 WHERE country LIKE '_____';
--- Yukarida ki iki ciktida ayni sonucu vermektedir. (13 adet veri 5 karakterden olusmaktadir.)
 
 -- 5. city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
