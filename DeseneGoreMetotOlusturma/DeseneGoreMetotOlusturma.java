@@ -1,7 +1,5 @@
 package DeseneGoreMetotOlusturma;
 
-import java.sql.Array;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class DeseneGoreMetotOlusturma {
