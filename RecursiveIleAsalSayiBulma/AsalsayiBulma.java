@@ -22,5 +22,6 @@ public class AsalsayiBulma {
         } else {
             System.out.println(sayi + " Asal Değildir.");
         }
+        sc.close();
     }
 }
